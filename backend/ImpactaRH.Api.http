@@ -1,0 +1,6 @@
+@ImpactaRH.Api_HostAddress = http://localhost:5199
+
+GET {{ImpactaRH.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
